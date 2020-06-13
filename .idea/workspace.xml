@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2823cd50-7867-4d5e-ba4f-54c963f1722e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day_17_06132020/Cucumber/Google_Test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Reusable_Classes/Abstract_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Reusable_Classes/Abstract_Class.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,6 @@
   </component>
   <component name="ProjectId" id="1buJC5fnYPFEyVOyZBAY2nOeub7" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -44,7 +47,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -254,13 +257,29 @@
       <option name="project" value="LOCAL" />
       <updated>1592067963885</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="My new changes5">
+      <created>1592068511554</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592068511554</updated>
+    </task>
+    <task id="LOCAL-00005" summary="My new changes6">
+      <created>1592068725207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592068725207</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My new changes" />
     <MESSAGE value="My new changes2" />
-    <option name="LAST_COMMIT_MESSAGE" value="My new changes2" />
+    <MESSAGE value="My new changes5" />
+    <MESSAGE value="My new changes6" />
+    <option name="LAST_COMMIT_MESSAGE" value="My new changes6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="11" key="#GoogleSearch_TestNG" timestamp="1589734640776">
@@ -283,10 +302,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590973212628" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1592068508982">
+    <state x="384" y="0" key="CommitChangelistDialog2" timestamp="1592073219676">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592068508982" />
+    <state x="384" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592073219676" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591655517077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -307,14 +326,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591896748258" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1591658733376">
+    <state x="163" y="0" key="SettingsEditor" timestamp="1592071117113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591658733376" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592068523161">
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1592071117113" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592068731727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592068523161" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592068731727" />
     <state x="65" y="66" key="new project wizard" timestamp="1591727213350">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
