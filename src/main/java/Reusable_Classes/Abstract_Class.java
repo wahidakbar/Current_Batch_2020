@@ -15,6 +15,7 @@ public class Abstract_Class {
     //New changes for github purpose
     // ////abc
     // New Changes 5
+    // Changes Number 6
     //you need to set up global variables as public static in order
     //to be used on your @test classes
     public static WebDriver driver;
