@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-11T12:48:29 EDT" name="Default Suite" finished-at="2020-06-11T12:51:55 EDT" duration-ms="206722">
+    <groups>
+    </groups>
+    <test started-at="2020-06-11T12:48:29 EDT" name="Maven_Automation" finished-at="2020-06-11T12:51:55 EDT" duration-ms="206722">
+      <class name="Action_Items.MetLife_Page_Object_ActnItm_8">
+        <test-method is-config="true" signature="defineDriver()[pri:0, instance:Action_Items.MetLife_Page_Object_ActnItm_8@6356695f]" started-at="2020-06-11T12:48:15 EDT" name="defineDriver" finished-at="2020-06-11T12:48:29 EDT" duration-ms="13211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defineDriver -->
+        <test-method is-config="true" signature="getMethodName(java.lang.reflect.Method)[pri:0, instance:Action_Items.MetLife_Page_Object_ActnItm_8@6356695f]" started-at="2020-06-11T12:48:29 EDT" name="getMethodName" finished-at="2020-06-11T12:48:29 EDT" duration-ms="32" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Action_Items.MetLife_Page_Object_ActnItm_8.MetFile_Verification() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethodName -->
+        <test-method signature="MetFile_Verification()[pri:0, instance:Action_Items.MetLife_Page_Object_ActnItm_8@6356695f]" started-at="2020-06-11T12:48:29 EDT" name="MetFile_Verification" finished-at="2020-06-11T12:51:55 EDT" duration-ms="206521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MetFile_Verification -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Action_Items.MetLife_Page_Object_ActnItm_8@6356695f]" started-at="2020-06-11T12:51:55 EDT" name="endTest" finished-at="2020-06-11T12:51:55 EDT" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="closeinfo()[pri:0, instance:Action_Items.MetLife_Page_Object_ActnItm_8@6356695f]" started-at="2020-06-11T12:51:56 EDT" name="closeinfo" finished-at="2020-06-11T12:52:01 EDT" duration-ms="5785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeinfo -->
+      </class> <!-- Action_Items.MetLife_Page_Object_ActnItm_8 -->
+    </test> <!-- Maven_Automation -->
+  </suite> <!-- Default Suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Suite for ActionItems_7]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression Test for Action Items_7(failed)">
+    <classes>
+      <class name="Action_Items.Excel_Google_Search_7">
+        <methods>
+          <include name="defineDriver"/>
+          <include name="endTest"/>
+          <include name="closeinfo"/>
+          <include name="getMethodName"/>
+          <include name="Google_Search_7"/>
+        </methods>
+      </class> <!-- Action_Items.Excel_Google_Search_7 -->
+    </classes>
+  </test> <!-- Regression Test for Action Items_7(failed) -->
+</suite> <!-- Failed suite [Automation Suite for ActionItems_7] -->

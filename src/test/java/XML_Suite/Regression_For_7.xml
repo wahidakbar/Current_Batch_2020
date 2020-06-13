@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suite for ActionItems_7">
+    <test name="Regression Test for Action Items_7" preserve-order="true">
+        <classes>
+            <!-- All Person -->
+            <class name="Action_Items.Google_Search_7" />
+            <class name="Action_Items.Weight_Watchers_7" />
+            <class name="Action_Items.MetLife_7" />
+            <class name="Action_Items.Excel_Google_Search_7" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
