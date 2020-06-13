@@ -12,8 +12,10 @@ import java.lang.reflect.Method;
 
 public class Abstract_Class {
 
-    //
-//to be used on your @test classes
+    //New changes for github purpose
+    // ////abc
+    //you need to set up global variables as public static in order
+    //to be used on your @test classes
     public static WebDriver driver;
     public static ExtentReports reports;
     public static ExtentTest logger;

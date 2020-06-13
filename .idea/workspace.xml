@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2823cd50-7867-4d5e-ba4f-54c963f1722e" name="Default Changelist" comment="" />
+    <list default="true" id="2823cd50-7867-4d5e-ba4f-54c963f1722e" name="Default Changelist" comment="My new changes">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Reusable_Classes/Abstract_Class.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -32,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/MetLife_Page_Object" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -228,6 +236,10 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My new changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="My new changes" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="392" y="11" key="#GoogleSearch_TestNG" timestamp="1589734640776">
       <screen x="0" y="0" width="1366" height="728" />
@@ -249,6 +261,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590973212628" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1592066718712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1592066718712" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591655517077">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
